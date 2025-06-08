@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "90F1CB3A-523C-44CB-843E-2CFAA7849E89"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "863F13D1-D703-4636-808C-2B3B8C79A50A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../var/folders/bq/vy_x43gx3_d3fl05xlbl81fm0000gq/T/swift-generated-sources/@__swiftmacro_20UnitTestProjectTests0024CustomerTestsswift_ynAHffMX145_14_6expectfMf_.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1">
+            <Locations>
+               <Location
+                  uuid = "863F13D1-D703-4636-808C-2B3B8C79A50A - 7458e634d83eb689"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for UnitTestProjectTests.CustomerTests.test_purchase_success() async -&gt; ()"
+                  moduleName = "UnitTestProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/bq/vy_x43gx3_d3fl05xlbl81fm0000gq/T/swift-generated-sources/@__swiftmacro_20UnitTestProjectTests0024CustomerTestsswift_ynAHffMX145_14_6expectfMf_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1"
+                  endingLineNumber = "1">
+               </Location>
+               <Location
+                  uuid = "863F13D1-D703-4636-808C-2B3B8C79A50A - 17cb0846bbab17cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for UnitTestProjectTests.CustomerTests.test_purchase_success() async -&gt; ()"
+                  moduleName = "UnitTestProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/bq/vy_x43gx3_d3fl05xlbl81fm0000gq/T/swift-generated-sources/@__swiftmacro_20UnitTestProjectTests0024CustomerTestsswift_ynAHffMX145_14_6expectfMf_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1"
+                  endingLineNumber = "1">
+               </Location>
+               <Location
+                  uuid = "863F13D1-D703-4636-808C-2B3B8C79A50A - 6b63f1a9070775cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for UnitTestProjectTests.CustomerTests.test_purchase_success() async -&gt; ()"
+                  moduleName = "UnitTestProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/bq/vy_x43gx3_d3fl05xlbl81fm0000gq/T/swift-generated-sources/@__swiftmacro_20UnitTestProjectTests0024CustomerTestsswift_ynAHffMX145_14_6expectfMf_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1"
+                  endingLineNumber = "1">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
